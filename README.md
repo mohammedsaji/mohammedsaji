@@ -32,7 +32,7 @@ Git · GitHub · Postman · IntelliJ IDEA · Maven
 
 **Stack:** Java · Spring Boot · Spring Security · PostgreSQL · JWT · JavaScript
 
-🔗 [View Project](https://github.com/mohammedsaji/axle-logistics)
+🔗 [View Project](https://github.com/mohammedsaji/AxleLogistics.git)
 
 ---
 
