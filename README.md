@@ -1,4 +1,4 @@
-# Hi, I'm Shajith 👋
+# Hi, I'm Shajith 
 
 Software Engineer with 1.5+ years of production experience building backend systems and REST APIs for enterprise applications.
 
